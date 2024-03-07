@@ -16,3 +16,6 @@ La aplicación aún no tiene ningun ejecutable (estoy mejorando la aplicación y
 5. Terminal -> Nuevo terminal y ejecutamos el comando "flutter pub upgrade" para descargar o actualizar las dependencias necesarias
 6. Una vez terminado este comando, ejecutamos el siguiente "flutter run"
 7. Nos dará posibles opciones donde ejecutar el codigo elegimos y entonces la aplicación empezará a compilar y ejecutar
+
+## Información sobre el proyecto
+El proyecto nace de una necesidad del instituto donde yo estudio para contabilizar los quilometros recoridos por el profesorado también pudiendo guardar sus vehiculos
